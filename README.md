@@ -54,13 +54,6 @@ These filters enable dynamic exploration of the data, allowing for deeper busine
  ┣ 📈 Dataset.xlsx
  ┣ 🖼️ fnp.png
  ┗ 📜 README.md
-```
-
----
-
-## 📸 Dashboard Preview
-![FNP Power BI Dashboard](fnp.png)
-
 ---
 
 ## 💡 Insights Summary
