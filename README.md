@@ -56,14 +56,6 @@ These filters enable dynamic exploration of the data, allowing for deeper busine
  ┗ 📜 README.md
 ---
 
-## 💡 Insights Summary
-- Sales peak in **March** and **September**, likely due to festive or event-driven spikes.  
-- **Cakes** and **plants** are the top revenue categories.  
-- **Imphal** and **Kavali** lead in order counts among cities.  
-- Average delivery time efficiency remains within acceptable limits.
-
----
-
 ## 📢 Author
 **Yukti Sahajwani**  
 
